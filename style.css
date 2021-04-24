@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .hero-image {
+    background-image: linear-gradient(rgba(226, 14, 14, 0.5), rgba(226, 14, 14, 0.5)), url("about.jpg");
+    height: 100%;
+    background-position: center;
+    
+    background-size: cover;
+    
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    
+    color: white;
+  }
+  
+  .hero-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .hero-text button:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
+  }
+
+  .bar {
+    overflow: auto;
+    background-color: #333;
+    position: sticky;
+  }
+  
+  .bar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .bar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .bar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }

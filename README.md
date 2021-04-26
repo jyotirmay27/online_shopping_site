@@ -5,7 +5,7 @@ frontend and login system
   <img src="assets/Screenshot (385).png" width="350" title="Repository">
   </p>
   <p align="center">
-  <img src="assets/lScreenshot (386).png" width="350" title="Login">
+  <img src="assets/Screenshot (386).png" width="350" title="Login">
 </p>
 <p align="center">
   <img src="assets/Screenshot (387).png" width="350" title="Upload">
